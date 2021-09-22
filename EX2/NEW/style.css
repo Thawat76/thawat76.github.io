@@ -97,8 +97,7 @@
         position: relative;
         list-style: none;
         margin: 10px 0;
-        cursor: none;
-
+        cursor: pointer;
     }
     .contactinfo ul li .icon{
         display: inline-block;
